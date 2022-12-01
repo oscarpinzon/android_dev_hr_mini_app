@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HR Prima</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">SALTAR</string>
+    <string name="cont">CONTINUAR</string>
+    <string name="slide_1_title">Bienvenido a HR Prima</string>
+    <string name="slide_1_desc">Utiliza el poder de la mejor applicacion de RH!</string>
+    <string name="slide_2_title">Configurar empleado</string>
+    <string name="slide_2_desc">Utiliza el poder de la mejor applicacion de RH!</string>
+    <string name="slide_3_title">Manejo de planilla</string>
+    <string name="slide_3_desc">Utiliza el poder de la mejor applicacion de RH!</string>
+    <string name="add_employee">Agregar Empleados</string>
+    <string name="delete_employee">Borrar Empleados</string>
+    <string name="list_employees">Ver Empleados</string>
+    <string name="update_employee">Actualizar Empleados</string>
+    <string name="nav_open">Abrir</string>
+    <string name="nav_close">Cerrar</string>
+    <string name="search">Buscar</string>
+    <string name="account">Cuenta</string>
+    <string name="profile">Perfil</string>
+</resources>
